@@ -6,4 +6,4 @@ Curso Gráficas por Computadora
 * Recoger los tres escudos para ganar
 * Acercarse al enemigo para perder
 
-![juego](https://github.com/dianaxime/Lab-UI/blob/master/view.PNG?raw=true)
+![juego](https://github.com/dianaxime/Lab-UI/blob/main/view.PNG)
